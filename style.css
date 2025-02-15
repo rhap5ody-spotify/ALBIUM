@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(to right,#9a1d86, #1595be);
+    background: linear-gradient(to right,#121212, #191919);
     font-weight: bold;
     }
     
@@ -15,7 +15,7 @@ body {
       border: 1px solid transparent;
       padding: 30px;
       border-radius: 20px;
-      background-color: #ddd;
+      background-color: ;
       box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
     }
     
