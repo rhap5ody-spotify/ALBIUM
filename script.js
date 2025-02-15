@@ -26,25 +26,25 @@ const music_list = [
         img : 'images/smalltown.png',
         name : 'SMALL TOWN',
         artist : 'Rhap5ody',
-        music : 'music/.mp3'
+        music : 'music/Misfits.mp3'
     },
     {
         img : 'images/smalltown.png',
         name : 'misfits.',
         artist : 'Rhap5ody',
-        music : 'music/misfits.mp3'
+        music : 'music/Misfits.mp3'
     },
     {
         img : 'images/newcity.png',
         name : 'NEW CITY',
         artist : 'Rhap5ody',
-        music : 'music/.mp3'
+        music : 'music/Misfits.mp3'
     },
     {
         img : 'images/smalltown.png',
         name : 'lost? (MINE)',
         artist : 'Rhap5ody',
-        music : 'music/.mp3'
+        music : 'music/Misfits.mp3'
     }
 ];
 
