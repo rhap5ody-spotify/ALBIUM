@@ -1,6 +1,5 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(to right,#121212, #191919);
     font-weight: bold;
     }
     
@@ -31,7 +30,7 @@ body {
     margin: 25px;
     height: 250px;
     width: 250px;
-    border:2px solid 	#FFFAFA;
+    border:2px solid #FFFAFA;
     background-size: cover;
     background-position: center;
     border-radius: 50%;
