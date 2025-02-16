@@ -67,9 +67,9 @@ function loadTrack(track_index){
     random_bg_color();
 }
 
-// function random_bg_color(){
+ function random_bg_color(){
 //    let hex = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e'];
-//    let a;
+    let a;
 
     function populate(a){
         for(let i=0; i<6; i++){
